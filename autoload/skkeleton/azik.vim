@@ -8,9 +8,9 @@ let s:us_layout = {
 
 let s:jis_layout = {
 \  " ": "henkanFirst",
-\  "^": "henkanPoint",
-\  "<s-l>": "zenkaku",
+\  "l": "disable",
 \  "@": "katakana",
+\  "'": "hankatakana",
 \  "/": "abbrev",
 \ }
 
@@ -637,10 +637,10 @@ endfunction
 " SKKの機能のマッピングをAZIK用に切り替える
 function! skkeleton#azik#set_keyconfig() abort
   call skkeleton#register_kanatable('azik', {
-  \  " ": "henkanFirst",
-  \  "^": "henkanPoint",
-  \  "<s-l>": "zenkaku",
-  \  "'": "katakana",
-  \  "/": "abbrev",
+\  " ": "henkanFirst",
+\  "l": "disable",
+\  "@": "katakana",
+\  "'": "hankatakana",
+\  "/": "abbrev",
   \ })
 endfunction
