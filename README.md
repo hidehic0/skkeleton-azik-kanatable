@@ -15,7 +15,7 @@ on_event = ['InsertEnter']
 lua_source = "require('plugins.skkeleton')"
 
 [[plugins]]
-repo = 'kei-s16/skkeleton-azik-kanatable'
+repo = 'k16em/skkeleton-azik-kanatable'
 on_source = 'skkeleton'
 ```
 
