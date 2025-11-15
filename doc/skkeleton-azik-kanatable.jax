@@ -1,7 +1,7 @@
 *skkeleton-azik-kanatable.txt*	日本語ヘルプ
 
-Version : 0.2
-Author  : kei-s16
+Version : 0.2.1
+Author  : k16em
 License : zlib
 
 ==============================================================================
@@ -20,7 +20,7 @@ TODO				|skkeleton-azik-kanatable-todo|
 *skkeleton-azik-kanatable* は vim-skk/skkeleton にAZIK入力用のkanaTableを追加するプラグインです。
 
 最新版:
-https://github.com/kei-s16/skkeleton-azik-kanatable
+https://github.com/k16em/skkeleton-azik-kanatable
 
 ==============================================================================
 使い方						*skkeleton-azik-kanatable-usage*
@@ -61,6 +61,9 @@ TODO						*skkeleton-azik-kanatable-todo*
 
 ==============================================================================
 更新履歴					*skkeleton-azik-kanatable-changelog*
+
+2025-11-16
+- GitHubのユーザーネームを変更したので各種記載を修正
 
 2023-02-19
 - JIS配列むけのデフォルト設定を追加
