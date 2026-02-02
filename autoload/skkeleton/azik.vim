@@ -156,6 +156,7 @@ function! skkeleton#azik#add_table(...) abort
   \  "wk": ["うぃん", ""],
   \  "wd": ["うぇん", ""],
   \  "wl": ["うぉん", ""],
+  \  "jk": ["じん", ""],
   \ })
 
   " 二重母音拡張
