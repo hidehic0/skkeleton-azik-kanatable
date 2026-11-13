@@ -1,0 +1,11 @@
+This repository contains a modified version of the original project.
+
+Original project: https://github.com/k16em/skkeleton-azik-kanatable
+
+The original license is preserved in the LICENSE file.
+
+Modifications:
+- Added goda-skk.vim configuration files under goda-skk/.
+- Modified the Kanatable
+
+This repository is not the original project. See the original project for the upstream source.
