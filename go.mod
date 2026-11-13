@@ -1,4 +1,4 @@
-module goda-skk-azik-kanatable
+module github.com/hidehic0/skkeleton-azik-kanatable
 
 go 1.27.3
 
